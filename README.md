@@ -61,3 +61,5 @@ We're relying on you, the community, to port your devices for the full Kali NetH
 
 
 Sun May 29 22:51:35 UTC 2022
+
+All References goes to Kali Nethunter - https://github.com/offensive-security/kali-nethunter
